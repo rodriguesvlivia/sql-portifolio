@@ -1,10 +1,10 @@
 -- ============================================================
--- Same-Store Sales (Like-for-Like) Revenue Analysis
--- Compares monthly revenue vs. the same month last year,
--- restricted to stores that were open for at least 13 months.
+-- Análise de Receita de Vendas Mesmas Lojas (Same-Store Sales / Like-for-Like)
+-- Compara a receita mensal em relação ao mesmo mês do ano anterior,
+-- restrito a lojas que estavam abertas há pelo menos 13 meses.
 --
--- Adapted for DuckDB, reading directly from CSVs:
---   lojas.csv, dim_produtos.csv, vendas.csv
+-- Adaptado para DuckDB, lendo diretamente dos arquivos CSV:
+--    lojas.csv, dim_produtos.csv, vendas.csv
 -- ============================================================
 
 WITH meses AS (
