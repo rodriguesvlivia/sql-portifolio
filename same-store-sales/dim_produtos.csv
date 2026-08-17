@@ -1,0 +1,26 @@
+codigo_produto,categoria,descricao
+1000,Eletronicos,Fone de Ouvido
+1001,Eletronicos,Carregador
+1002,Eletronicos,Smartwatch
+1003,Eletronicos,Caixa de Som
+1004,Eletronicos,Cabo USB
+1005,Vestuario,Camiseta
+1006,Vestuario,Calca Jeans
+1007,Vestuario,Jaqueta
+1008,Vestuario,Tenis
+1009,Vestuario,Bone
+1010,Casa,Panela
+1011,Casa,Jogo de Cama
+1012,Casa,Luminaria
+1013,Casa,Tapete
+1014,Casa,Cortina
+1015,Beleza,Perfume
+1016,Beleza,Shampoo
+1017,Beleza,Creme Facial
+1018,Beleza,Batom
+1019,Beleza,Protetor Solar
+1020,Papelaria,Caderno
+1021,Papelaria,Caneta
+1022,Papelaria,Mochila
+1023,Papelaria,Estojo
+1024,Papelaria,Agenda
